@@ -14,5 +14,5 @@
 ![Markdown](http://i4.piimg.com/568443/59b00a328c3dfcc9.png)
 4.删除原工程的 main.m、AppDelegate.h/m 文件
 ### 更改工程入口
-具体设置参照[博客](http://blog.csdn.net/crayondeng/article/details/16828555, "我是标题")，大致的思路就是修改cocos工程的入口AppController文件，在需要嵌入游戏的位置初始化RootViewController即可。
+具体设置参照[博客](http://blog.csdn.net/crayondeng/article/details/16828555)，大致的思路就是修改cocos工程的入口AppController文件，在需要嵌入游戏的位置初始化RootViewController即可。
 
